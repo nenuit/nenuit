@@ -1,5 +1,8 @@
 ## Hi, my name is Irene 👋
 
+![big-data-2296821_1280](https://github.com/nenuit/nenuit/assets/170528376/d710fd6b-425d-4fa2-805a-96c21ddb42ab)
+
+
 <!--
 **nenuit/nenuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
