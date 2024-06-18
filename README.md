@@ -1,6 +1,7 @@
 ## Hi, my name is Irene 👋
 
-![image](https://github.com/nenuit/nenuit/assets/170528376/6daa5a67-be53-4183-8c48-24f3b9f8a097)
+
+![Banner-git-hub](https://github.com/nenuit/nenuit/assets/170528376/055647bb-f220-4961-8e48-0334fb508885)
 
 
 
